@@ -1,9 +1,9 @@
-# Most interesting facts about me
+# The most interesting facts about me
 1. fact #42
 2. fact #51
 3. fact #87
 
-# Least interesting facts about me
+# The least interesting facts about me
 
 1. fact #41
 2. fact #52
